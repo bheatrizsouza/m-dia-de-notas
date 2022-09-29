@@ -1,6 +1,6 @@
-Algoritmo "mediadenotas"
+Algoritmo "media de notas"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+// Professor   : Rafael 
 // Descrição   : O programa calcula a média de notas do aluno, determinando se ele foi aprovado ou não.
 // Autor(a)    : Bheatriz de Souza Pereira
 // Data atual  : 29/09/2022
