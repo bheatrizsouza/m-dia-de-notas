@@ -1,8 +1,8 @@
 Algoritmo "mediadenotas"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : O programa calcula a média de notas do aluno, determinando se ele foi aprovado ou não.
+// Autor(a)    : Bheatriz de Souza Pereira
 // Data atual  : 29/09/2022
 Var
 // Seção de Declarações das variáveis
